@@ -1,0 +1,22 @@
+O intuito deste teste é avaliar o desempenho em relação as ferramentas que serão utilizadas dentro do time de DataOps. 
+
+Para este teste, iremos utilizar as seguintes ferramentas, MongoDB e Python.
+Apenas para critério de conhecimento, responda as questões abaixo de acordo com sua percepção:
+ 
+Como você considera seu nível de conhecimento em Python?
+R: Intermediario
+Como você considera seu nível de conhecimento em MongoDB?
+R: Iniciante
+Como você considera seu nível de conhecimento em ETL?
+R: Intermediario
+Como você considera seu nível de conhecimento em Pentaho?
+R: Iniciante
+
+Desempenho.
+ 
+Descreva abaixo quais foram os pontos mais fáceis:
+R: Os pntos mais fáceis foram a lógica e a aplicação em python. 
+A mais difíceis encontrados nesta atividade,
+R: O maior dificuldade nesse desafio foi o mango,  por estar acostumado com banco de dados relacional .
+Já o NoSQL orientado a documentos armazena dados em documentos em formato JSON, mais nada que umas nada que umas pesquisas nas documentações, artigos e pratica nao resolvam.
+Até o momento nao consegui agrupar as tbbelas  no mongo compass mais continuo pesquisando 
